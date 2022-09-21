@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Dynosaur pack",
+    "price": "0.09",
+    "description": "Get this fire emoji pack for only $0.09! Includes 4 hot dyno emojis!",
+    "image_url": "https://i.imgur.com/rVD8bjt.png",
+    "filename": "Dynos",
+    "hash": "QmSr4PmwpnDfLVmMH4nEqvsooivtSgtBZHHTdubigFWsHX"
+  },
+  {
+    "id": 2,
+    "name": "Dyno Pack 2",
+    "price": "0.01",
+    "image_url": "https://i.imgur.com/v1Sv5Oe.png",
+    "description": "Dyno pack 2",
+    "filename": "dynos.zip",
+    "hash": "QmUCoh9neaYmriaNmYBp9ha6quq5NzVxrrdniw4iAix1qQ"
+  }
+]
